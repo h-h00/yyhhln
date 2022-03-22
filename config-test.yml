@@ -3,3 +3,5 @@ spring:
     name: springcloud-config-test
   profiles:
     active: test
+
+#模拟运维修改了配置O(∩_∩)O哈哈~
